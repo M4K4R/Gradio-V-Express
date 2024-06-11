@@ -17,11 +17,11 @@ Check out the YouTube Video NewGenAI:
 
 3. Clone the repository:
    ```bash
-   git clone https://github.com/tencent-ailab/V-Express
+   git clone https://github.com/M4K4R/Gradio-V-Express
    ```
 4. Navigate inside the cloned repository:
    ```bash
-   cd V-Express
+   cd Gradio-V-Express
    ```
 5. Create a virtual environment:
    ```bash
