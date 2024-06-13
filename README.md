@@ -60,8 +60,8 @@ Check out the YouTube Video NewGenAI:
     ```bash
     git lfs install
     git clone https://huggingface.co/tk93/V-Express
-    mv V-Express/model_ckpts model_ckpts
-    mv V-Express/*.bin model_ckpts/v-express
+    move V-Express/model_ckpts model_ckpts
+    move V-Express/*.bin model_ckpts/v-express
     ```
 
 13. Install Gradio web UI:
